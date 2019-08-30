@@ -49,8 +49,8 @@ without any additional terms or conditions.
 
 [npm-shield]: https://img.shields.io/npm/v/jmse.svg
 [npm-link]: https://www.npmjs.com/package/jmse
-[build-image]: https://secure.travis-ci.org/jmse-json/jmse.js.svg?branch=master
-[build-link]: http://travis-ci.org/jmse-json/jmse.js
+[build-image]: https://secure.travis-ci.com/jmse-json/jmse.js.svg?branch=master
+[build-link]: http://travis-ci.com/jmse-json/jmse.js
 [license-image]: https://img.shields.io/badge/license-Apache2.0-blue.svg
 [license-link]: https://github.com/jmse-json/jmse.js/blob/master/LICENSE
 
