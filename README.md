@@ -47,11 +47,11 @@ without any additional terms or conditions.
 
 [//]: # (badges)
 
-[npm-image]: https://img.images.io/npm/v/jmse.svg
+[npm-image]: https://img.shields.io/npm/v/jmse.svg
 [npm-link]: https://www.npmjs.com/package/jmse
 [build-image]: https://travis-ci.com/jmse-json/jmse.js.svg?branch=develop
 [build-link]: http://travis-ci.com/jmse-json/jmse.js
-[license-image]: https://img.images.io/badge/license-Apache2.0-blue.svg
+[license-image]: https://img.shields.io/badge/license-Apache2.0-blue.svg
 [license-link]: https://github.com/jmse-json/jmse.js/blob/master/LICENSE
 
 [//]: # (general links)
